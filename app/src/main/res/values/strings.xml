@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bela blok</string>
+    <string name="unesi">Unesi</string>
+    <string name="pocni_igru">POČNI IGRU</string>
+    <string name="zbroji">Provjeri</string>
+    <string name="ukupni_bodovi">Ukupan broj bodova</string>
+    <string name="bodovi1">Bodovi prve ekipe</string>
+    <string name="bodovi2">Bodovi druge ekipe</string>
+    <string name="zvanje1">Zvanje prve ekipe</string>
+    <string name="zvanje2">Zvanje druge ekipe</string>
+    <string name="novaigra">Novi unos</string>
+    <string name="Mi">Mi</string>
+    <string name="Vi">Vi</string>
+    <string name="bodovi">Bodovi</string>
+    <string name="ispocetka">OBRISI SVE</string>
+</resources>
